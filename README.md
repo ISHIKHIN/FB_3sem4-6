@@ -44,6 +44,7 @@ cd backend
 npm init -y
 npm install
 npm start
+```
 
 Открыть второй новый терминал и выполнить следующее:
 
@@ -51,7 +52,7 @@ npm start
 cd frontend
 npm install
 npm start
-
+```
 
 frontend: http://localhost:3001
 backend: http://localhost:3000
