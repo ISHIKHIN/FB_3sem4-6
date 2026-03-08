@@ -1,5 +1,5 @@
 # Магазин плюшевых игрушек (React + Express)
-Тестовый проект зоомагазина с CRUD операциями. Frontend на React, Backend на Express, документация API через Swagger.
+Тестовый проект магазина игрушек с CRUD операциями. Frontend на React, Backend на Express, документация API через Swagger.
 
 
 ## Функционал
